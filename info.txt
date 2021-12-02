@@ -1,0 +1,30 @@
+#--Vuex Configuracion Manual --#
+
+    doc => https://next.vuex.vuejs.org/
+
+    instalar => yarn add vuex@next --save
+
+    Introducción a Vuex, como gestor de estado global de nuestra aplicación, puntualmente veremos:
+
+    ¿Qué es Vuex?
+
+    ¿Qué problema resuelve Vuex?
+
+    Actions
+
+    Getters
+
+    Mutations
+
+    State
+
+    Módulos
+
+    Segmentación
+
+    Vuex DevTools
+
+
+
+Esta sección es muy importante para comprender Vuex, el cual es un gestor de estado muy popular cuando sabemos que las aplicaciones serán de mediana a gran escala.
+
